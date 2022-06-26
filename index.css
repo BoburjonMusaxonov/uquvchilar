@@ -132,7 +132,6 @@
     flex-direction: column;
   }
   .container {
-    height: 250vh;
-    background-color: black;
+    height: 160vh;
   }
 }
