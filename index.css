@@ -116,4 +116,7 @@
   .natija {
     flex-direction: column;
   }
+  .container {
+    height: 250vh;
+  }
 }
