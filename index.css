@@ -118,5 +118,6 @@
   }
   .container {
     height: 250vh;
+    background-color: black;
   }
 }
